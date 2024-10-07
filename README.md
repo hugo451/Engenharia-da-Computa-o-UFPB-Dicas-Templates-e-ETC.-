@@ -1,4 +1,5 @@
 # Guia do Aluno de Engenharia da Computação - UFPB
+É uma iniciativa da monitoria de Introdução à Engenharia da Computação (2023.2 - 2024.1)  que visa ajudar o estudante do curso com orientações, documentos, entre outros.
 
 ## Sumário
 1. [Introdução](#introdução)
