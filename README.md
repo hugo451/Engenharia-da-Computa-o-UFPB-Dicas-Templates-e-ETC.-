@@ -9,14 +9,14 @@
 4. [Cursos Recomendados](#cursos-recomendados)
    - 4.1 [Programação Iniciante](#programação-iniciante)
    - 4.2 [Git e Controle de Versão](#git-e-controle-de-versão)
-5. [Componentes de Hardware Úteis](#componentes-de-hardware-uteis)
+5. [Componentes de Hardware Úteis](#componentes-de-hardware-úteis)
 6. [Dicas de Estudo e Organização](#dicas-de-estudo-e-organização)
    - 6.1 [Planejamento de Estudos](#planejamento-de-estudos)
    - 6.2 [Métodos de Estudo Eficazes](#métodos-de-estudo-eficazes)
 7. [Dicas e Conselhos dos Veteranos](#dicas-e-conselhos-dos-veteranos)
 8. [Recursos Audiovisuais](#recursos-audiovisuais)
    - 8.1 [Filmes e Séries](#filmes-e-séries)
-9. [Emails, Links e Templates Úteis](#emails-links-e-templates-uteis)
+9. [Emails, Links e Templates Úteis](#emails-links-e-templates-úteis)
 10. [Projetos e Atividades Extracurriculares](#projetos-e-atividades-extracurriculares)
 11. [Laboratórios](#laboratórios)
 12. [Networking e Comunidade](#networking-e-comunidade)
@@ -69,4 +69,3 @@ Dicas sobre como fazer networking e se envolver na comunidade de tecnologia.
 
 ## 13. FAQs
 Respostas para perguntas frequentes sobre o curso e a vida acadêmica.
-
