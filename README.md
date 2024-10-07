@@ -17,7 +17,7 @@
 8. [Dicas e Conselhos dos Veteranos](#dicas-e-conselhos-dos-veteranos)
 9. [Nossa área nas telas](#nossa-área-nas-telas)
    - 9.1 [Filmes e Séries](#filmes-e-séries)
-10. [Links e Templates Úteis](#links-e-templates-uteis)
+10. [Links e Templates Úteis](#emails,-links-e-templates-uteis)
 11. [Projetos e Atividades Extracurriculares](#projetos-e-atividades-extracurriculares)
 12. [Networking e Comunidade](#networking-e-comunidade)
 13. [FAQs](#faqs)
@@ -48,8 +48,8 @@ Dicas e conselhos práticos dados por alunos veteranos.
 ## Nossa área nas telas
 ### Filmes e Séries
 Recomendações de filmes e séries que abordam temas relacionados à computação.
-## Links e Templates Úteis
-Links para recursos, templates para relatórios e materiais complementares.
+## Emails, Links e Templates Úteis
+Emails de professores/coordenadores , Links para recursos, templates para relatórios e materiais complementares.
 ## Projetos e Atividades Extracurriculares
 Sugestões de projetos, grupos de pesquisa e atividades extracurriculares.
 ## Networking e Comunidade
