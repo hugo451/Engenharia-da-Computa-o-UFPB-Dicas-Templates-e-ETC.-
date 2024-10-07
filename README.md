@@ -18,9 +18,10 @@
 9. [Nossa área nas telas](#nossa-área-nas-telas)
    - 9.1 [Filmes e Séries](#filmes-e-séries)
 10. [Links e Templates Úteis](#links-e-templates-uteis)
-11. [Projetos e Atividades Extracurriculares](#projetos-e-atividades-extracurriculares)
-12. [Networking e Comunidade](#networking-e-comunidade)
-13. [FAQs](#faqs)
+11. [Emails Úteis](#links-e-templates-uteis)
+12. [Projetos e Atividades Extracurriculares](#projetos-e-atividades-extracurriculares)
+13. [Networking e Comunidade](#networking-e-comunidade)
+14. [FAQs](#faqs)
 
 ## Introdução
 Breve introdução ao guia, seu propósito e importância para os alunos.
