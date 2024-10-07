@@ -14,7 +14,7 @@
    - 6.1 [Planejamento de Estudos](#planejamento-de-estudos)
    - 6.2 [Métodos de Estudo Eficazes](#métodos-de-estudo-eficazes)
 7. [Dicas e Conselhos dos Veteranos](#dicas-e-conselhos-dos-veteranos)
-8. [Nossa Áreas nas telas](#nossa-área-nas-telas)
+8. [Nossa Área nas telas](#nossa-área-nas-telas)
    - 8.1 [Filmes e Séries](#filmes-e-séries)
 9. [Emails, Links e Templates Úteis](#emails-links-e-templates-úteis)
 10. [Projetos e Atividades Extracurriculares](#projetos-e-atividades-extracurriculares)
@@ -51,7 +51,7 @@ Sugestões de métodos de estudo e técnicas de aprendizagem.
 ## Dicas e Conselhos dos Veteranos
 Dicas e conselhos práticos dados por alunos veteranos.
 
-## Nossa Áreas nas telas
+## Nossa Área nas telas
 ### Filmes e Séries
 Recomendações de filmes e séries que abordam temas relacionados à computação.
 
