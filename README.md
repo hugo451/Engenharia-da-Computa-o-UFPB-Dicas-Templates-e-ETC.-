@@ -121,10 +121,10 @@ Criado em 2013, o Laboratório de Engenharia de Sistemas e Robótica - LASER est
 •	Inteligência Artificial
 
 #### Contatos e Redes Sociais:
-Email: laser@ci.ufpb.br\
-Instagram: [@laser_laboratory](https://www.instagram.com/laser_laboratory/)\
-LinkedIn: [LASER-UFPB](https://www.linkedin.com/company/laser-ufpb/)\
-Youtube: [Laboratory of Systems Engineering and Robotics](https://www.youtube.com/@laboratoryofsystemsenginee3276)\
+ - Email: laser@ci.ufpb.br
+ - Instagram: [@laser_laboratory](https://www.instagram.com/laser_laboratory/)
+ - LinkedIn: [LASER-UFPB](https://www.linkedin.com/company/laser-ufpb/)
+ - Youtube: [Laboratory of Systems Engineering and Robotics](https://www.youtube.com/@laboratoryofsystemsenginee3276)
 
 ***
 
@@ -140,8 +140,8 @@ As pesquisas desenvolvidas são realizadas em parceria com outras universidades,
 •	TV Digital
 
 #### Contatos e Redes Sociais:
-Email: contato@lavid.ufpb.br\
-Instagram: [@lavidufpb](https://www.instagram.com/lavidufpb/)
+ - Email: contato@lavid.ufpb.br
+ - Instagram: [@lavidufpb](https://www.instagram.com/lavidufpb/)
 
 ***
 
@@ -150,16 +150,16 @@ Com os avanços recentes da inteligência artificial, pesquisas na área antes d
 
 #### Áreas de Pesquisa:
 #### Contatos e Redes Sociais:
-Email: aria@ci.ufpb.br\
-Instagram: [@aprendizagemdemaquina](https://www.instagram.com/aprendizagemdemaquina/)
+ - Email: aria@ci.ufpb.br
+ - Instagram: [@aprendizagemdemaquina](https://www.instagram.com/aprendizagemdemaquina/)
 
 #### TAIL
 A TAIL (Technology and Artificial Intelligence League) é a primeira Liga Acadêmica de Inteligência Artificial da Paraíba e a primeira Liga Acadêmica do Centro de Informática (CI). Fundada no dia 7 de agosto de 2020, a TAIL é estruturada para o desenvolvimento profissional e pessoal dos integrantes. Temos como objetivo promover um ambiente para troca de conhecimentos em áreas como inteligência artificial, ciência de dados, cálculo e estatística, bem como estimular e divulgar estudos científicos, publicações e cursos. Nosso corpo de membros é composto por professores doutores, mestrandos e alunos de graduação.
 
 #### Contatos e Redes Sociais:
-Instagram: [@tailufpb](www.instagram.com/tailufpb/)\
-Github: [TailUFPB](https://github.com/TailUFPB)\
-LinkedIn: [TAIL - Technology and Artificial Intelligence League](https://www.linkedin.com/company/tailufpb/)
+ - Instagram: [@tailufpb](www.instagram.com/tailufpb/)
+ - Github: [TailUFPB](https://github.com/TailUFPB)
+ - LinkedIn: [TAIL - Technology and Artificial Intelligence League](https://www.linkedin.com/company/tailufpb/)
 
 ***
 
@@ -168,10 +168,10 @@ O IEEE é a maior organização profissional técnica do mundo, dedicada ao avan
 educação e padrões técnicos. 
 
 #### Capítulos:
-•	RAS – Robotics & Automation Society\
-•	CS/CIS – Computer and Computational Intelligence Society Joint\
-•	PES – Sociedade de Potência e Energia\
-•	PELS/IAS – Sociedades de Eletrônica de Potência e Aplicação Industrial
+ - RAS – Robotics & Automation Society
+ - CS/CIS – Computer and Computational Intelligence Society Joint
+ - PES – Sociedade de Potência e Energia
+ - PELS/IAS – Sociedades de Eletrônica de Potência e Aplicação Industrial
 
 ***
 
