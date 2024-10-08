@@ -6,21 +6,23 @@
 2. [Sobre o Curso](#sobre-o-curso)
    - 2.1 [Possibilidades de Atuação](#possibilidades-de-atuacao)
 3. [Conteúdos de Estudo para os Primeiros Períodos](#conteúdos-de-estudo-para-os-primeiros-períodos)
-4. [Cursos Recomendados](#cursos-recomendados)
+   - 3.1 [1º Período](#1º-período)
+   - 3.2 [2º Período](#2º-período)
+5. [Cursos Recomendados](#cursos-recomendados)
    - 4.1 [Programação Iniciante](#programação-iniciante)
    - 4.2 [Git e Controle de Versão](#git-e-controle-de-versão)
-5. [Componentes de Hardware Úteis](#componentes-de-hardware-úteis)
-6. [Dicas de Estudo e Organização](#dicas-de-estudo-e-organização)
+6. [Componentes de Hardware Úteis](#componentes-de-hardware-úteis)
+7. [Dicas de Estudo e Organização](#dicas-de-estudo-e-organização)
    - 6.1 [Planejamento de Estudos](#planejamento-de-estudos)
    - 6.2 [Métodos de Estudo Eficazes](#métodos-de-estudo-eficazes)
-7. [Dicas e Conselhos dos Veteranos](#dicas-e-conselhos-dos-veteranos)
-8. [Nossa Área nas telas](#nossa-área-nas-telas)
+8. [Dicas e Conselhos dos Veteranos](#dicas-e-conselhos-dos-veteranos)
+9. [Nossa Área nas telas](#nossa-área-nas-telas)
    - 8.1 [Filmes e Séries](#filmes-e-séries)
-9. [Emails, Links e Templates Úteis](#emails-links-e-templates-úteis)
-10. [Projetos e Atividades Extracurriculares](#projetos-e-atividades-extracurriculares)
-11. [Laboratórios](#laboratórios)
-12. [Networking e Comunidade](#networking-e-comunidade)
-13. [FAQs](#faqs)
+10. [Emails, Links e Templates Úteis](#emails-links-e-templates-úteis)
+11. [Projetos e Atividades Extracurriculares](#projetos-e-atividades-extracurriculares)
+12. [Laboratórios](#laboratórios)
+13. [Networking e Comunidade](#networking-e-comunidade)
+14. [FAQs](#faqs)
 
 ## Introdução
 Breve introdução ao guia, seu propósito e importância para os alunos.
@@ -57,7 +59,36 @@ Sugestões de cursos online e presenciais para iniciantes em programação.
 Recursos e cursos sobre Git e controle de versão.
 
 ## Componentes de Hardware Úteis
-Lista de componentes de hardware recomendados para projetos.
+Logo no primeiro período haverão projetos de hardware para as disciplinas de Introdução à Engenharia de Computação e Materiais para Micro e Nano Tecnologia. Tendo isso em vista, listaremos uma série de componentes/materiais que podem ser úteis e essenciais no desenvolvimento dos protótipos, podendo ser utilizados no decorrer do curso. Inicialmente, vamos dar ênfase nas duas principais placas de prototipagem (Arduino e ESP), posteriormente trataremos dos componentes mais gerais.
+
+### Arduino
+Breve resumo acerca do Arduino.
+
+### ESP32/ESP8266
+Breve resumo acerca da ESP..
+
+   - **Protoboard**:
+   - **Jumpers**:
+   - **Resistores**:
+   - **LED's**:
+   - **LCD**:
+   - **Motor DC**:
+   - **Ponte H**:
+   - **Bateria/Pilhas**:
+   - **Shield**:
+   - **Sensores**:
+      - **Temperatura**:
+      - **Presença**:
+      - **Ultrassônico**:
+      - **Acelerômetro**:
+      - **Umidade**:
+      - **Gás**:
+      - **Nível**:
+      - **Luminosidade**:
+   - **Módulos**:
+     - **I2C**:
+     - **Bluetooth**:
+     - **WI-FI**:
 
 ## Dicas de Estudo e Organização
 ### Planejamento de Estudos
@@ -95,6 +126,8 @@ Instagram: [@laser_laboratory](https://www.instagram.com/laser_laboratory/)\
 LinkedIn: [LASER-UFPB](https://www.linkedin.com/company/laser-ufpb/)\
 Youtube: [Laboratory of Systems Engineering and Robotics](https://www.youtube.com/@laboratoryofsystemsenginee3276)\
 
+***
+
 ### LAVID
 Criado em 2003, o Laboratório de Aplicações de Vídeo Digital (LAVID) está integrado ao Departamento de Informática (DI) da Universidade Federal da Paraíba (UFPB). O laboratório surgiu da proposta de desenvolver projetos de pesquisa em hardware e software voltados às áreas de Vídeo Digital, Redes de Computadores, TV Digital e Interativa e Middleware.
 Atualmente o LAVID é uma referência nacional e internacional em desenvolvimento de tecnologia para TV Digital. O LAVID conta com a colaboração de mais de 40 jovens pesquisadores, entre doutores, mestres e graduandos, que estão interconectados com pesquisadores de todo o Brasil e do mundo, trazendo as atuais tendências tecnológicas mundiais nas áreas de vídeo e TV Digital.
@@ -110,6 +143,26 @@ As pesquisas desenvolvidas são realizadas em parceria com outras universidades,
 Email: contato@lavid.ufpb.br\
 Instagram: [@lavidufpb](https://www.instagram.com/lavidufpb/)
 
+***
+
+### ARIA 
+Com os avanços recentes da inteligência artificial, pesquisas na área antes desenvolvidas no Laboratório de Visão Computacional – VISIO e no Laboratório de Aplicações de Vídeo Digital – LAViD cresceram, surgindo a necessidade da criação de um lugar focado na formação, desenvolvimento de produtos e pesquisas em inteligência artificial. O ARIA (ARtificial Intelligence Applications laboratory) surgiu em 2019, com professores, pesquisadores e estudantes das mais diversas áreas, com o interesse em comum em desenvolver pesquisas e produtos com inteligência artificial. Contamos com estudantes de doutorado, mestrado e graduação de diferentes cursos e centros da UFPB. Além disso, colaboramos com pesquisadores de instituições do Brasil e do mundo, com empresas e órgãos públicos no desenvolvimento de projetos de pesquisa e desenvolvimento, assim criando soluções com inteligência artificial para as demandas do mundo atual.
+
+#### Áreas de Pesquisa:
+#### Contatos e Redes Sociais:
+Email: aria@ci.ufpb.br\
+Instagram: [@aprendizagemdemaquina](https://www.instagram.com/aprendizagemdemaquina/)
+
+#### TAIL
+A TAIL (Technology and Artificial Intelligence League) é a primeira Liga Acadêmica de Inteligência Artificial da Paraíba e a primeira Liga Acadêmica do Centro de Informática (CI). Fundada no dia 7 de agosto de 2020, a TAIL é estruturada para o desenvolvimento profissional e pessoal dos integrantes. Temos como objetivo promover um ambiente para troca de conhecimentos em áreas como inteligência artificial, ciência de dados, cálculo e estatística, bem como estimular e divulgar estudos científicos, publicações e cursos. Nosso corpo de membros é composto por professores doutores, mestrandos e alunos de graduação.
+
+#### Contatos e Redes Sociais:
+Instagram: [@tailufpb](www.instagram.com/tailufpb/)\
+Github: [TailUFPB](https://github.com/TailUFPB)\
+LinkedIn: [TAIL - Technology and Artificial Intelligence League](https://www.linkedin.com/company/tailufpb/)
+
+***
+
 ### Ramo IEEE 
 O IEEE é a maior organização profissional técnica do mundo, dedicada ao avanço da tecnologia em benefício da humanidade. Ela reúne engenheiros, cientistas, e profissionais de tecnologia em uma comunidade global, promovendo inovação,
 educação e padrões técnicos. 
@@ -120,21 +173,25 @@ educação e padrões técnicos.
 •	PES – Sociedade de Potência e Energia\
 •	PELS/IAS – Sociedades de Eletrônica de Potência e Aplicação Industrial
 
-### ARIA 
-#### Áreas de Pesquisa:
-#### Contatos e Redes Sociais:
+***
 
 ### LMI
 #### Áreas de Pesquisa:
 #### Contatos e Redes Sociais:
 
+***
+
 ### TRIL
 #### Áreas de Pesquisa:
 #### Contatos e Redes Sociais:
 
+***
+
 ### LUMO
 #### Áreas de Pesquisa:
 #### Contatos e Redes Sociais:
+
+***
 
 ## Networking e Comunidade
 Dicas sobre como fazer networking e se envolver na comunidade de tecnologia.
