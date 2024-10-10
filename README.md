@@ -65,16 +65,16 @@ Logo no primeiro período haverão projetos de hardware para as disciplinas de I
 Breve resumo acerca do Arduino.
 
 ### ESP32/ESP8266
-Breve resumo acerca da ESP..
+Breve resumo acerca da ESP.
 
    - **Protoboard**:
    - **Jumpers**:
    - **Resistores**:
    - **LED's**:
+   - **Bateria/Pilhas**:
    - **LCD**:
    - **Motor DC**:
    - **Ponte H**:
-   - **Bateria/Pilhas**:
    - **Shield**:
    - **Sensores**:
       - **Temperatura**:
@@ -131,7 +131,7 @@ Criado em 2013, o Laboratório de Engenharia de Sistemas e Robótica - LASER est
 ### LAVID
 Criado em 2003, o Laboratório de Aplicações de Vídeo Digital (LAVID) está integrado ao Departamento de Informática (DI) da Universidade Federal da Paraíba (UFPB). O laboratório surgiu da proposta de desenvolver projetos de pesquisa em hardware e software voltados às áreas de Vídeo Digital, Redes de Computadores, TV Digital e Interativa e Middleware.
 Atualmente o LAVID é uma referência nacional e internacional em desenvolvimento de tecnologia para TV Digital. O LAVID conta com a colaboração de mais de 40 jovens pesquisadores, entre doutores, mestres e graduandos, que estão interconectados com pesquisadores de todo o Brasil e do mundo, trazendo as atuais tendências tecnológicas mundiais nas áreas de vídeo e TV Digital.
-As pesquisas desenvolvidas são realizadas em parceria com outras universidades, institutos de pesquisa e empresas da iniciativa privada. Por ser um laboratório ativo na área de desenvolvimento, recebe financiamento de instituições parceiras como a Rede Nacional de Ensino e Pesquisa (RNP), Financiadora de Estudos e Projetos (FINEP) e Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) [LAVID](http://lavid.ufpb.br).
+As pesquisas desenvolvidas são realizadas em parceria com outras universidades, institutos de pesquisa e empresas da iniciativa privada. Por ser um laboratório ativo na área de desenvolvimento, recebe financiamento de instituições parceiras como a Rede Nacional de Ensino e Pesquisa (RNP), Financiadora de Estudos e Projetos (FINEP) e Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) ([LAVID](http://lavid.ufpb.br)).
 
 #### Áreas de Pesquisa:
 •	Redes e Sistemas Colaborativos e Distribuídos
@@ -146,20 +146,66 @@ As pesquisas desenvolvidas são realizadas em parceria com outras universidades,
 ***
 
 ### ARIA 
-Com os avanços recentes da inteligência artificial, pesquisas na área antes desenvolvidas no Laboratório de Visão Computacional – VISIO e no Laboratório de Aplicações de Vídeo Digital – LAViD cresceram, surgindo a necessidade da criação de um lugar focado na formação, desenvolvimento de produtos e pesquisas em inteligência artificial. O ARIA (ARtificial Intelligence Applications laboratory) surgiu em 2019, com professores, pesquisadores e estudantes das mais diversas áreas, com o interesse em comum em desenvolver pesquisas e produtos com inteligência artificial. Contamos com estudantes de doutorado, mestrado e graduação de diferentes cursos e centros da UFPB. Além disso, colaboramos com pesquisadores de instituições do Brasil e do mundo, com empresas e órgãos públicos no desenvolvimento de projetos de pesquisa e desenvolvimento, assim criando soluções com inteligência artificial para as demandas do mundo atual.
+Com os avanços recentes da inteligência artificial, pesquisas na área antes desenvolvidas no Laboratório de Visão Computacional – VISIO e no Laboratório de Aplicações de Vídeo Digital – LAViD cresceram, surgindo a necessidade da criação de um lugar focado na formação, desenvolvimento de produtos e pesquisas em inteligência artificial. O ARIA (ARtificial Intelligence Applications laboratory) surgiu em 2019, com professores, pesquisadores e estudantes das mais diversas áreas, com o interesse em comum em desenvolver pesquisas e produtos com inteligência artificial. Contamos com estudantes de doutorado, mestrado e graduação de diferentes cursos e centros da UFPB. Além disso, colaboramos com pesquisadores de instituições do Brasil e do mundo, com empresas e órgãos públicos no desenvolvimento de projetos de pesquisa e desenvolvimento, assim criando soluções com inteligência artificial para as demandas do mundo atual ([ARIA](https://aria.ci.ufpb.br)).
 
 #### Áreas de Pesquisa:
+• Inteligencia Artificial 
+• Analise, Gestão e Estruturação de Dados 
+• Engenharia de Software
+• Visão Computacional 
+• Medicina
+
 #### Contatos e Redes Sociais:
  - Email: aria@ci.ufpb.br
  - Instagram: [@aprendizagemdemaquina](https://www.instagram.com/aprendizagemdemaquina/)
 
 #### TAIL
-A TAIL (Technology and Artificial Intelligence League) é a primeira Liga Acadêmica de Inteligência Artificial da Paraíba e a primeira Liga Acadêmica do Centro de Informática (CI). Fundada no dia 7 de agosto de 2020, a TAIL é estruturada para o desenvolvimento profissional e pessoal dos integrantes. Temos como objetivo promover um ambiente para troca de conhecimentos em áreas como inteligência artificial, ciência de dados, cálculo e estatística, bem como estimular e divulgar estudos científicos, publicações e cursos. Nosso corpo de membros é composto por professores doutores, mestrandos e alunos de graduação.
+A TAIL (Technology and Artificial Intelligence League) é a primeira Liga Acadêmica de Inteligência Artificial da Paraíba e a primeira Liga Acadêmica do Centro de Informática (CI). Fundada no dia 7 de agosto de 2020, a TAIL é estruturada para o desenvolvimento profissional e pessoal dos integrantes. Temos como objetivo promover um ambiente para troca de conhecimentos em áreas como inteligência artificial, ciência de dados, cálculo e estatística, bem como estimular e divulgar estudos científicos, publicações e cursos. Nosso corpo de membros é composto por professores doutores, mestrandos e alunos de graduação ([TAIL](https://aria.ci.ufpb.br/tail/)).
 
 #### Contatos e Redes Sociais:
  - Instagram: [@tailufpb](www.instagram.com/tailufpb/)
  - Github: [TailUFPB](https://github.com/TailUFPB)
  - LinkedIn: [TAIL - Technology and Artificial Intelligence League](https://www.linkedin.com/company/tailufpb/)
+
+***
+
+### LMI
+
+O Laboratório de Medidas e Instrumentação do Centro de Informática da Universidade Federal da Paraíba, foi criado em 2014 com intuito de produzir pesquisas na área de eletrônica e microeletrônica. Atualmente também desenvolve aplicações para cidades inteligentes baseadas em sensores e aplicativos embarcados. O LMI tem como objetivo desenvolver novas idéias a partir de dispositivos eletrônicos convencionais ([LMI](https://lmi.ci.ufpb.br/lmi/)).
+
+#### Áreas de Pesquisa:
+#### Contatos e Redes Sociais:
+- Telefone: +55 (83) 3216-7506
+- Email: lmi@ci.ufpb.br
+- Instagram: [@lmi.ufpb](https://www.instagram.com/lmi.ufpb/)
+
+***
+
+### TRIL
+Após reformulação do LaMEP (Laboratório de Modelagem em Engenharia de Petróleo) realizada em 2021, surgiu o Laboratório TRILL. A proposta do TRIL repousa sobre uma tríade conceitual que deu origem ao seu nome: COMPREENDER, MODELAR e RESOLVER (em inglês, SEIZE, SHAPE and SOLVE). Este modelo holístico “3S” pretende implantar um portfólio de soluções para setores estratégicos da nossa economia e sociedade. Com base em pesquisa, desenvolvimento, inovação, transferência de tecnologia e pessoas, há a ambição de entregar soluções para fins específicos na faixa de 4 a 6 na escala de Nível de Maturidade Tecnológica (do inglês Technology Readiness Level, ou TRL). Ou seja, produtos mínimos viáveis ​​que chegam na fronteira da testagem comercial. O foco é ciência e engenharia computacional. Ciência e Engenharia Computacional (do inglês Computational Science and Engineering, ou CSE) é um domínio do conhecimento que utiliza métodos, técnicas e recursos computacionais para estudar problemas relevantes que emergem no seio da engenharia, ciência e sociedade, mas impossíveis de serem resolvidos apenas por meio de experimentos convencionais. Para alcançar o máximo que a CSE pode entregar, toma-se um know-how que engloba: métodos matemáticos, dinâmica de fluidos, simulação numérica, computação de alto desempenho, análise de dados, aprendizado de máquina, prototipagem de software, além de outras habilidades e competências em áreas afins ([TRILL](https://tril.ci.ufpb.br/sobre/)).
+
+#### Áreas de Pesquisa:
+• Métodos Numéricos
+• Computação Científica
+• Mecânica Computational
+• Modelagem e Simulação
+• Inteligência Artificial 
+• Aprendizado de Máquina
+• Ciência e Análise de Dados
+• Processamento de Imagens
+
+#### Contatos e Redes Sociais:
+- Telefone: +55 (83) 3209 8298
+- Email: tril@ci.ufpb.br
+- Instagram: [@tril_lab](https://www.instagram.com/tril_lab/)
+
+***
+
+### LUMO
+#### Áreas de Pesquisa:
+#### Contatos e Redes Sociais:
+
+***
 
 ***
 
@@ -172,26 +218,6 @@ educação e padrões técnicos.
  - CS/CIS – Computer and Computational Intelligence Society Joint
  - PES – Sociedade de Potência e Energia
  - PELS/IAS – Sociedades de Eletrônica de Potência e Aplicação Industrial
-
-***
-
-### LMI
-#### Áreas de Pesquisa:
-#### Contatos e Redes Sociais:
-
-***
-
-### TRIL
-#### Áreas de Pesquisa:
-#### Contatos e Redes Sociais:
-
-***
-
-### LUMO
-#### Áreas de Pesquisa:
-#### Contatos e Redes Sociais:
-
-***
 
 ## Networking e Comunidade
 Dicas sobre como fazer networking e se envolver na comunidade de tecnologia.
