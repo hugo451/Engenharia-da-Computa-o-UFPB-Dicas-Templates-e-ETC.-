@@ -78,7 +78,7 @@ Componentes gerais:
    - **Motor DC**
    - **Ponte H**
    - **Shield**
-   - **Sensores**
+   - **Sensores:**
       - **Temperatura**
       - **Presença**
       - **Ultrassônico**
@@ -87,7 +87,7 @@ Componentes gerais:
       - **Gás**
       - **Nível**
       - **Luminosidade**
-   - **Módulos**
+   - **Módulos:**
      - **I2C**
      - **Bluetooth**
      - **WI-FI**
