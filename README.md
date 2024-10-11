@@ -62,33 +62,35 @@ Recursos e cursos sobre Git e controle de versão.
 Logo no primeiro período haverão projetos de hardware para as disciplinas de Introdução à Engenharia de Computação e Materiais para Micro e Nano Tecnologia. Tendo isso em vista, listaremos uma série de componentes/materiais que podem ser úteis e essenciais no desenvolvimento dos protótipos, podendo ser utilizados no decorrer do curso. Inicialmente, vamos dar ênfase nas duas principais placas de prototipagem (Arduino e ESP), posteriormente trataremos dos componentes mais gerais.
 
 ### Arduino
-Breve resumo acerca do Arduino.
+Arduino é uma plataforma eletrônica de código aberto baseada em hardware e software fáceis de usar. As placas Arduino são capazes de ler entradas – luz em um sensor, um dedo em um botão ou uma mensagem do Twitter – e transformá-las em uma saída – ativando um motor, ligando um LED, publicando algo online. Você pode dizer à sua placa o que fazer enviando um conjunto de instruções ao microcontrolador da placa. Para isso utiliza-se a linguagem de programação Arduino (baseada em Wiring) e o Software Arduino (IDE), baseado em Procccessing ([Arduino](https://www.arduino.cc/en/Guide/Introduction)).
 
 ### ESP32/ESP8266
 Breve resumo acerca da ESP.
 
-   - **Protoboard**:
-   - **Jumpers**:
-   - **Resistores**:
-   - **LED's**:
-   - **Bateria/Pilhas**:
-   - **LCD**:
-   - **Motor DC**:
-   - **Ponte H**:
-   - **Shield**:
-   - **Sensores**:
-      - **Temperatura**:
-      - **Presença**:
-      - **Ultrassônico**:
-      - **Acelerômetro**:
-      - **Umidade**:
-      - **Gás**:
-      - **Nível**:
-      - **Luminosidade**:
-   - **Módulos**:
-     - **I2C**:
-     - **Bluetooth**:
-     - **WI-FI**:
+Componentes gerais:
+
+   - **Protoboard**
+   - **Jumpers**
+   - **Resistores**
+   - **LED's**
+   - **Bateria/Pilhas**
+   - **LCD**
+   - **Motor DC**
+   - **Ponte H**
+   - **Shield**
+   - **Sensores**
+      - **Temperatura**
+      - **Presença**
+      - **Ultrassônico**
+      - **Acelerômetro**
+      - **Umidade**
+      - **Gás**
+      - **Nível**
+      - **Luminosidade**
+   - **Módulos**
+     - **I2C**
+     - **Bluetooth**
+     - **WI-FI**
 
 ## Dicas de Estudo e Organização
 ### Planejamento de Estudos
